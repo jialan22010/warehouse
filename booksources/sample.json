@@ -9,7 +9,7 @@
   "customOrder": -213746,
   "enabled": true,
   "enabledExplore": true,
-  "exploreUrl": "全部::最近更新::\/top-lastupdate-{{page}}",
+  "exploreUrl": "全部::\/top-lastupdate-{{page}}",
   "header": "",
   "lastUpdateTime": 1626448125713,
   "loginUrl": "",
