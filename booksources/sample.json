@@ -10,7 +10,6 @@
   "enabled": true,
   "enabledExplore": true,
   "exploreUrl": "最近更新::\/top-lastupdate-{{page}}\/",
-  "header": "",
   "lastUpdateTime": 1626448125713,
   "loginUrl": "",
   "ruleBookInfo": {
