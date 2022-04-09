@@ -14,27 +14,27 @@
   "lastUpdateTime": 1626448125713,
   "loginUrl": "",
   "ruleBookInfo": {
-    "author": "#info@tag.p0@text",
-    "coverUrl": "#fmimg@tag.img@src",
+    "author": "id.info@tag.p.0@text",
+    "coverUrl": "id.fmimg@tag.img@src",
     "init": "",
-    "intro": "#intro@tag.p@text",
-    "kind": ".con_top@tag.a.1@text",
-    "lastChapter": "#list@tag.dl@tag.dd.0@text",
-    "name": "#info@tag.h1@text",
+    "intro": "id.intro@tag.p@text",
+    "kind": "class.con_top@tag.a.1@text",
+    "lastChapter": "id.list@tag.dl@tag.dd.0@text",
+    "name": "id.info@tag.h1@text",
     "tocUrl": "",
     "wordCount": ""
   },
   "ruleContent": {
-    "content": "#content@html",
+    "content": "id.content@html",
     "imageStyle": "0",
-    "nextContentUrl": ".bottem2@tag.a.3@href",
+    "nextContentUrl": "class.bottem2@tag.a.3@href",
     "replaceRegex": "",
     "sourceRegex": "",
     "webJs": ""
   },
   "ruleExplore": {
     "author": "tag.a.2@text",
-    "bookList": "class.grid@tag.tbody@tr!0",
+    "bookList": "class.grid@tag.tbody@tag.tr!0",
     "bookUrl": "tag.td.0@tag.a@href",
     "coverUrl": "",
     "intro": "",
@@ -45,7 +45,7 @@
   },
   "ruleSearch": {
     "author": "tag.td.2@text",
-    "bookList": ".grid@tag.tbody@tag.tr!0",
+    "bookList": "class.grid@tag.tbody@tag.tr!0",
     "bookUrl": "tag.td.0@tag.a@href",
     "coverUrl": "",
     "intro": "",
@@ -55,7 +55,7 @@
     "wordCount": ""
   },
   "ruleToc": {
-    "chapterList": "#list@tag.dl@tag.dd",
+    "chapterList": "#list dl dd",
     "chapterName": "tag.a@text",
     "chapterUrl": "tag.a@href",
     "isVip": "",
