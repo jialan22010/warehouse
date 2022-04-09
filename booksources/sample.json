@@ -1,0 +1,68 @@
+[
+  {
+  "bookSourceComment": "搜索间隔30?",
+  "bookSourceGroup": "我的测试",
+  "bookSourceName": "pc5200",
+  "bookSourceType": 0,
+  "bookSourceUrl": "http://www.b5200.net/",
+  "bookUrlPattern": "",
+  "customOrder": -213746,
+  "enabled": true,
+  "enabledExplore": true,
+  "exploreUrl": "全部::最近更新::\/top-lastupdate-{{page}}",
+  "header": "",
+  "lastUpdateTime": 1626448125713,
+  "loginUrl": "",
+  "ruleBookInfo": {
+    "author": "#info@tag.p0@text",
+    "coverUrl": "#fmimg@tag.img@src",
+    "init": "",
+    "intro": "#intro@tag.p@text",
+    "kind": ".con_top@tag.a.1@text",
+    "lastChapter": "#list@tag.dl@tag.dd.0@text",
+    "name": "#info@tag.h1@text",
+    "tocUrl": "",
+    "wordCount": ""
+  },
+  "ruleContent": {
+    "content": "#content@html",
+    "imageStyle": "0",
+    "nextContentUrl": ".bottem2@tag.a.3@href",
+    "replaceRegex": "",
+    "sourceRegex": "",
+    "webJs": ""
+  },
+  "ruleExplore": {
+    "author": "tag.a.2@text",
+    "bookList": ".grid@tag.tbody@tr!0",
+    "bookUrl": "tag.td.0@tag.a@href",
+    "coverUrl": "",
+    "intro": "",
+    "kind": "",
+    "lastChapter": "tag.td.1@tag.a@text",
+    "name": "tag.td.0@tag.a@text",
+    "wordCount": ""
+  },
+  "ruleSearch": {
+    "author": "tag.td.2@text",
+    "bookList": ".grid@tag.tbody@tag.tr!0",
+    "bookUrl": "tag.td.0@tag.a@href",
+    "coverUrl": "",
+    "intro": "",
+    "kind": "",
+    "lastChapter": "tag.td.1@tag.a@text",
+    "name": "tag.td.0@tag.a@text",
+    "wordCount": ""
+  },
+  "ruleToc": {
+    "chapterList": "#list@tag.dl@tag.dd",
+    "chapterName": "tag.a@text",
+    "chapterUrl": "tag.a@href",
+    "isVip": "",
+    "nextTocUrl": "",
+    "updateTime": ""
+  },
+  "searchUrl": "http:\/\/www.b5200.net\/modules\/article\/search.php?searchkey={{key}}",
+  "weight": 0
+}
+]
