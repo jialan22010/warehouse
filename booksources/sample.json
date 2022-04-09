@@ -34,7 +34,7 @@
   },
   "ruleExplore": {
     "author": "tag.a.2@text",
-    "bookList": ".grid@tag.tbody@tr!0",
+    "bookList": "class.grid@tag.tbody@tr!0",
     "bookUrl": "tag.td.0@tag.a@href",
     "coverUrl": "",
     "intro": "",
